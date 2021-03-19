@@ -1,14 +1,11 @@
 [
   {
-    "id": 1,
-    "title": "Post 1"
+    "codigo":"1","nregistro":"0001","cod_seg":"JR1","nombres":"Jesús Antonio","apellidop":"Rivera","apellidom":"Oré","estado":"A"
   },
   {
-    "id": 2,
-    "title": "Post 2"
+    "codigo":"2","nregistro":"0002","cod_seg":"LS2","nombres":"Luis Francisco","apellidop":"Solari","apellidom":"Tudela","estado":"A"
   },
   {
-    "id": 3,
-    "title": "Post 3"
+    "codigo":"3","nregistro":"0003","cod_seg":"JC3","nombres":"Juan Carlos","apellidop":"Centurión","apellidom":"Portales","estado":"A"
   }
 ]
